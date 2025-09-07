@@ -1,7 +1,7 @@
 import random
 
 
-''' Task-1 Guess number '''
+# Task-1: Guess the number
 
 # Generating  a random integer between 0 and 100 for computer guess .
 computer_guess = random.randint(0, 100)
@@ -28,8 +28,7 @@ while retry:
 
 
 
-''' Task-2   Word Scramble'''
-
+# Task-2: Word Scramble
 
 words = ['python', 'javascript', 'java', 'automation', 'pytest', 'guvi', 'selenium']
 
